@@ -16,6 +16,6 @@ Current focus:
 
 Previously worked on knowledge graphs, RAG, recommendation systems, and applied ML research.
 
-- Publications: EMNLP 2019, ISWC 2023
+- Publications: EMNLP 2019, ISWC 2023, etc.
 
 - LinkedIn: https://www.linkedin.com/in/zihaowang23/
